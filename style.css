@@ -6,7 +6,11 @@ body {
 height: 100vh;
 margin: 0px;
 padding: 0px;
-background-color: green;
+background-image: url(/home/salim/Documents/book/prometey-sanchez-noskov-340992-unsplash.jpg);
+webkit-background-size: cover;
+moz-background-size: cover;
+o-background-size: cover;
+background-size: cover;
 display: flex;
 flex-direction: column;
 align-items: center;
@@ -19,7 +23,7 @@ h1{
   font-family: sans-serif;
   font-weight: 300;
   font-size: 350%;
-  text-transform: uppercase;
+  text-transform: ;
   margin-bottom: 0;
   text-align:center;
   margin-top: center;
